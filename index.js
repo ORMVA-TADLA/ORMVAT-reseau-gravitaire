@@ -1,3 +1,25 @@
+// Register Service Worker with correct path
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        // Use absolute path for GitHub Pages
+        const swPath = './sw.js';
+
+        navigator.serviceWorker.register(swPath)
+            .then(reg => {
+                console.log('✅ Service Worker registered successfully');
+                console.log('Scope:', reg.scope);
+            })
+            .catch(err => {
+                console.error('❌ Service Worker registration failed:', err);
+                console.error('Tried to register:', swPath);
+            });
+    });
+} else {
+    console.warn('⚠️ Service Workers not supported in this browser');
+}
+
+// Rest of your code...
+
 console.log('🗺️ Initializing map...');
 const map = L.map('map').setView([32.294577425170004, -6.7027966781581165], 10);
 
