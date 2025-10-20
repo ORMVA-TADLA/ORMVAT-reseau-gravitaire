@@ -2,10 +2,10 @@
   "name": "ORMVAT reseau gravitaire",
   "short_name": "ORMVATRG",
   "description": " Map of ORMVA du Tadla réseaux gravitaire ",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4f46e5",
+  "background_color": "white",
+  "theme_color": "black",
   "orientation": "portrait-primary",
   "icons": [
     {
