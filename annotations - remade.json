@@ -1,0 +1,604 @@
+[
+  {
+    "lineNumber": 2,
+    "lon": -6.705114913410624,
+    "lat": 32.20921411314855,
+    "angleInDegrees": 78.7257,
+    "value": "Canal G"
+  },
+  {
+    "lineNumber": 3,
+    "lon": -6.751016668179527,
+    "lat": 32.243515027839315,
+    "angleInDegrees": 148.35321000000002,
+    "value": "SG9"
+  },
+  {
+    "lineNumber": 4,
+    "lon": -6.7056445629998995,
+    "lat": 32.27921757271307,
+    "angleInDegrees": 78.7257,
+    "value": "Canal M"
+  },
+  {
+    "lineNumber": 5,
+    "lon": -6.775958189093068,
+    "lat": 32.25448548783817,
+    "angleInDegrees": 82.40265,
+    "value": "TG9AG10"
+  },
+  {
+    "lineNumber": 6,
+    "lon": -6.779283254346244,
+    "lat": 32.2601096346261,
+    "angleInDegrees": 89.11656,
+    "value": "TG9AG11"
+  },
+  {
+    "lineNumber": 7,
+    "lon": -6.762534392615248,
+    "lat": 32.24324749402351,
+    "angleInDegrees": 148.34448,
+    "value": "SG9A"
+  },
+  {
+    "lineNumber": 8,
+    "lon": -6.776608082207722,
+    "lat": 32.23808744005326,
+    "angleInDegrees": 71.66592,
+    "value": "TG10G6"
+  },
+  {
+    "lineNumber": 9,
+    "lon": -6.778860789777394,
+    "lat": 32.24151591016438,
+    "angleInDegrees": 68.61636,
+    "value": "TG10G7"
+  },
+  {
+    "lineNumber": 10,
+    "lon": -6.774516568503378,
+    "lat": 32.234874501998874,
+    "angleInDegrees": 72.10818,
+    "value": "TG10G5"
+  },
+  {
+    "lineNumber": 11,
+    "lon": -6.768429201067669,
+    "lat": 32.22286759763326,
+    "angleInDegrees": 78.21369,
+    "value": "TG10G3"
+  },
+  {
+    "lineNumber": 12,
+    "lon": -6.771885975889734,
+    "lat": 32.230665732747056,
+    "angleInDegrees": 78.39846,
+    "value": "TG10G4"
+  },
+  {
+    "lineNumber": 13,
+    "lon": -6.756665513962311,
+    "lat": 32.22164700891633,
+    "angleInDegrees": 78.02667,
+    "value": "TG9AG1"
+  },
+  {
+    "lineNumber": 14,
+    "lon": -6.757956280113357,
+    "lat": 32.2288750599629,
+    "angleInDegrees": 84.71312999999999,
+    "value": "TG9AG3"
+  },
+  {
+    "lineNumber": 15,
+    "lon": -6.75731405744399,
+    "lat": 32.225801503240916,
+    "angleInDegrees": 84.73995000000001,
+    "value": "TG9AG2"
+  },
+  {
+    "lineNumber": 16,
+    "lon": -6.770621208990721,
+    "lat": 32.263851538494755,
+    "angleInDegrees": 87.68043,
+    "value": "TG9G13"
+  },
+  {
+    "lineNumber": 17,
+    "lon": -6.7498883276933785,
+    "lat": 32.22288141050006,
+    "angleInDegrees": 76.66074,
+    "value": "SG9A"
+  },
+  {
+    "lineNumber": 18,
+    "lon": -6.759199790493851,
+    "lat": 32.231997444319504,
+    "angleInDegrees": 77.47118999999999,
+    "value": "TG9AG4"
+  },
+  {
+    "lineNumber": 19,
+    "lon": -6.769406732357959,
+    "lat": 32.246621017993355,
+    "angleInDegrees": 78.46947,
+    "value": "TG9AG8"
+  },
+  {
+    "lineNumber": 20,
+    "lon": -6.772285808204694,
+    "lat": 32.2500795752902,
+    "angleInDegrees": 80.56143,
+    "value": "TG9AG9"
+  },
+  {
+    "lineNumber": 21,
+    "lon": -6.767097646736915,
+    "lat": 32.24278040150328,
+    "angleInDegrees": 74.44098,
+    "value": "TG9AG7"
+  },
+  {
+    "lineNumber": 22,
+    "lon": -6.76133818875176,
+    "lat": 32.23589803554299,
+    "angleInDegrees": 42.17022,
+    "value": "TG9AG5"
+  },
+  {
+    "lineNumber": 23,
+    "lon": -6.764679467485663,
+    "lat": 32.239421387064716,
+    "angleInDegrees": 74.35314,
+    "value": "TG9AG6"
+  },
+  {
+    "lineNumber": 24,
+    "lon": -6.800964683880259,
+    "lat": 32.25796704415847,
+    "angleInDegrees": 83.78802,
+    "value": "TG10AG12"
+  },
+  {
+    "lineNumber": 25,
+    "lon": -6.768961088487371,
+    "lat": 32.23542137475401,
+    "angleInDegrees": 148.34052,
+    "value": "SG10"
+  },
+  {
+    "lineNumber": 26,
+    "lon": -6.800016099048503,
+    "lat": 32.25411193668128,
+    "angleInDegrees": 88.51428,
+    "value": "TG10AG11"
+  },
+  {
+    "lineNumber": 27,
+    "lon": -6.79577428337817,
+    "lat": 32.24609021266774,
+    "angleInDegrees": 84.10653,
+    "value": "TG10AG9"
+  },
+  {
+    "lineNumber": 28,
+    "lon": -6.799393536431471,
+    "lat": 32.25009713263937,
+    "angleInDegrees": 84.14388000000001,
+    "value": "TG10AG10"
+  },
+  {
+    "lineNumber": 29,
+    "lon": -6.780335881048758,
+    "lat": 32.2326562322989,
+    "angleInDegrees": 164.05461000000003,
+    "value": "SG10A"
+  },
+  {
+    "lineNumber": 30,
+    "lon": -6.775658957781085,
+    "lat": 32.222128142381514,
+    "angleInDegrees": 42.09948,
+    "value": "TG10AD1"
+  },
+  {
+    "lineNumber": 31,
+    "lon": -6.792380708375262,
+    "lat": 32.24298323868652,
+    "angleInDegrees": 88.89228,
+    "value": "TG10AG8"
+  },
+  {
+    "lineNumber": 32,
+    "lon": -6.769228790171289,
+    "lat": 32.219228904699946,
+    "angleInDegrees": 77.9562,
+    "value": "TG10G2"
+  },
+  {
+    "lineNumber": 33,
+    "lon": -6.773590347840007,
+    "lat": 32.221973413784696,
+    "angleInDegrees": 79.82856000000001,
+    "value": "SG10A"
+  },
+  {
+    "lineNumber": 34,
+    "lon": -6.779808875743526,
+    "lat": 32.21811812907265,
+    "angleInDegrees": 42.09948,
+    "value": "TG10AG1"
+  },
+  {
+    "lineNumber": 35,
+    "lon": -6.789720541567419,
+    "lat": 32.25505885238793,
+    "angleInDegrees": 80.23329,
+    "value": "TG10G11"
+  },
+  {
+    "lineNumber": 36,
+    "lon": -6.791645996877519,
+    "lat": 32.2588942938311,
+    "angleInDegrees": 84.30417,
+    "value": "TG10G12"
+  },
+  {
+    "lineNumber": 37,
+    "lon": -6.786660977613076,
+    "lat": 32.25076104539929,
+    "angleInDegrees": 80.66673,
+    "value": "TG10G10"
+  },
+  {
+    "lineNumber": 38,
+    "lon": -6.781192134224085,
+    "lat": 32.24450142589028,
+    "angleInDegrees": 75.45483,
+    "value": "TG10G8"
+  },
+  {
+    "lineNumber": 39,
+    "lon": -6.783769393926014,
+    "lat": 32.24794000857826,
+    "angleInDegrees": 77.65245,
+    "value": "TG10G9"
+  },
+  {
+    "lineNumber": 40,
+    "lon": -6.7814768353352575,
+    "lat": 32.22067884006173,
+    "angleInDegrees": 75.2346,
+    "value": "TG10AG2"
+  },
+  {
+    "lineNumber": 41,
+    "lon": -6.7865898150963675,
+    "lat": 32.236340564127545,
+    "angleInDegrees": 86.57397,
+    "value": "TG10AG6"
+  },
+  {
+    "lineNumber": 42,
+    "lon": -6.7894319297869545,
+    "lat": 32.23959801869002,
+    "angleInDegrees": 88.53867,
+    "value": "TG10AG7"
+  },
+  {
+    "lineNumber": 43,
+    "lon": -6.785315104254179,
+    "lat": 32.23268505216378,
+    "angleInDegrees": 83.45574,
+    "value": "TG10AG5"
+  },
+  {
+    "lineNumber": 44,
+    "lon": -6.782764204614393,
+    "lat": 32.22487973981498,
+    "angleInDegrees": 76.01975999999999,
+    "value": "TG10AG3"
+  },
+  {
+    "lineNumber": 45,
+    "lon": -6.784112680519635,
+    "lat": 32.22840324736047,
+    "angleInDegrees": 78.80733,
+    "value": "TG10AG4"
+  },
+  {
+    "lineNumber": 46,
+    "lon": -6.740306795848587,
+    "lat": 32.256130549737776,
+    "angleInDegrees": 42.07509,
+    "value": "TG8G10"
+  },
+  {
+    "lineNumber": 47,
+    "lon": -6.743162872261107,
+    "lat": 32.260022760842624,
+    "angleInDegrees": 72.01071,
+    "value": "TG8G11"
+  },
+  {
+    "lineNumber": 48,
+    "lon": -6.737963599828654,
+    "lat": 32.25297092192352,
+    "angleInDegrees": 72.00315,
+    "value": "TG8G9"
+  },
+  {
+    "lineNumber": 49,
+    "lon": -6.733665349618603,
+    "lat": 32.24608573293941,
+    "angleInDegrees": 72.00054,
+    "value": "TG8G7"
+  },
+  {
+    "lineNumber": 50,
+    "lon": -6.7357211157686265,
+    "lat": 32.24902564065194,
+    "angleInDegrees": 71.86653,
+    "value": "TG8G8"
+  },
+  {
+    "lineNumber": 51,
+    "lon": -6.7454951716849285,
+    "lat": 32.26331198942076,
+    "angleInDegrees": 72.41121000000001,
+    "value": "TG8G12"
+  },
+  {
+    "lineNumber": 52,
+    "lon": -6.737323986971351,
+    "lat": 32.229332418788644,
+    "angleInDegrees": 69.44391,
+    "value": "TG8AG2"
+  },
+  {
+    "lineNumber": 53,
+    "lon": -6.738863777842373,
+    "lat": 32.23272863251433,
+    "angleInDegrees": 69.14754,
+    "value": "TG8AG3"
+  },
+  {
+    "lineNumber": 54,
+    "lon": -6.7356807976595805,
+    "lat": 32.2256289041508,
+    "angleInDegrees": 78.28524,
+    "value": "TG8AG1"
+  },
+  {
+    "lineNumber": 55,
+    "lon": -6.747807942801818,
+    "lat": 32.266592168190286,
+    "angleInDegrees": 71.31267,
+    "value": "TG8G13"
+  },
+  {
+    "lineNumber": 56,
+    "lon": -6.734013215981201,
+    "lat": 32.252530958192466,
+    "angleInDegrees": 152.03754,
+    "value": "SG8"
+  },
+  {
+    "lineNumber": 57,
+    "lon": -6.727586124530177,
+    "lat": 32.22719905816089,
+    "angleInDegrees": 78.28524,
+    "value": "TG8G2"
+  },
+  {
+    "lineNumber": 58,
+    "lon": -6.722672978798047,
+    "lat": 32.22804468054722,
+    "angleInDegrees": 78.28524,
+    "value": "TG8D2"
+  },
+  {
+    "lineNumber": 59,
+    "lon": -6.73074637498641,
+    "lat": 32.22649084846503,
+    "angleInDegrees": 76.66074,
+    "value": "SG8A"
+  },
+  {
+    "lineNumber": 60,
+    "lon": -6.728932892206972,
+    "lat": 32.2312304991263,
+    "angleInDegrees": 81.3789,
+    "value": "TG8G3"
+  },
+  {
+    "lineNumber": 61,
+    "lon": -6.7304558357340465,
+    "lat": 32.2387837402426,
+    "angleInDegrees": 78.28524,
+    "value": "TG8G5"
+  },
+  {
+    "lineNumber": 62,
+    "lon": -6.731829421524513,
+    "lat": 32.243326395928975,
+    "angleInDegrees": 73.93580999999999,
+    "value": "TG8G6"
+  },
+  {
+    "lineNumber": 63,
+    "lon": -6.725102699757425,
+    "lat": 32.235952562444965,
+    "angleInDegrees": 72.75879,
+    "value": "TG8D4"
+  },
+  {
+    "lineNumber": 64,
+    "lon": -6.723887732381659,
+    "lat": 32.232148880735714,
+    "angleInDegrees": 62.77131000000001,
+    "value": "TG8D3"
+  },
+  {
+    "lineNumber": 65,
+    "lon": -6.730035581341242,
+    "lat": 32.23494818870913,
+    "angleInDegrees": 78.23889000000001,
+    "value": "TG8G4"
+  },
+  {
+    "lineNumber": 66,
+    "lon": -6.749338750953575,
+    "lat": 32.23524379442063,
+    "angleInDegrees": 63.06291,
+    "value": "TG9G5"
+  },
+  {
+    "lineNumber": 67,
+    "lon": -6.751874592532839,
+    "lat": 32.2389635371149,
+    "angleInDegrees": 71.15436,
+    "value": "TG9G6"
+  },
+  {
+    "lineNumber": 68,
+    "lon": -6.7473962932405085,
+    "lat": 32.232048188352564,
+    "angleInDegrees": 63.099900000000005,
+    "value": "TG9G4"
+  },
+  {
+    "lineNumber": 69,
+    "lon": -6.745565015999249,
+    "lat": 32.22381460932253,
+    "angleInDegrees": 78.21369,
+    "value": "TG9G2"
+  },
+  {
+    "lineNumber": 70,
+    "lon": -6.746291255854368,
+    "lat": 32.22798994245596,
+    "angleInDegrees": 73.18197,
+    "value": "TG9G3"
+  },
+  {
+    "lineNumber": 71,
+    "lon": -6.754632952110477,
+    "lat": 32.24235607768454,
+    "angleInDegrees": 42.28443,
+    "value": "TG9G7"
+  },
+  {
+    "lineNumber": 72,
+    "lon": -6.765198552844515,
+    "lat": 32.25636008181877,
+    "angleInDegrees": 76.38696,
+    "value": "TG9G11"
+  },
+  {
+    "lineNumber": 73,
+    "lon": -6.768564161709891,
+    "lat": 32.26078192800725,
+    "angleInDegrees": 85.3965,
+    "value": "TG9G12"
+  },
+  {
+    "lineNumber": 74,
+    "lon": -6.762378675308464,
+    "lat": 32.25246248186264,
+    "angleInDegrees": 70.587,
+    "value": "TG9G10"
+  },
+  {
+    "lineNumber": 75,
+    "lon": -6.757354026332352,
+    "lat": 32.24554983521709,
+    "angleInDegrees": 70.74072000000001,
+    "value": "TG9G8"
+  },
+  {
+    "lineNumber": 76,
+    "lon": -6.759472465219244,
+    "lat": 32.24921048680199,
+    "angleInDegrees": 70.74072000000001,
+    "value": "TG9G9"
+  },
+  {
+    "lineNumber": 77,
+    "lon": -6.7461885569881455,
+    "lat": 32.24579375973337,
+    "angleInDegrees": 68.97501000000001,
+    "value": "TG8AG7"
+  },
+  {
+    "lineNumber": 78,
+    "lon": -6.747792541177405,
+    "lat": 32.24893443085841,
+    "angleInDegrees": 42.26274,
+    "value": "TG8AG8"
+  },
+  {
+    "lineNumber": 79,
+    "lon": -6.744252857927973,
+    "lat": 32.24283523251173,
+    "angleInDegrees": 68.93657999999999,
+    "value": "TG8AG6"
+  },
+  {
+    "lineNumber": 80,
+    "lon": -6.740414694471432,
+    "lat": 32.23647987815265,
+    "angleInDegrees": 73.62152999999999,
+    "value": "TG8AG4"
+  },
+  {
+    "lineNumber": 81,
+    "lon": -6.742596198438799,
+    "lat": 32.24023998623625,
+    "angleInDegrees": 68.85558,
+    "value": "TG8AG5"
+  },
+  {
+    "lineNumber": 82,
+    "lon": -6.749546288305857,
+    "lat": 32.25106477413037,
+    "angleInDegrees": 75.30516,
+    "value": "TG8AG9"
+  },
+  {
+    "lineNumber": 83,
+    "lon": -6.757915932258225,
+    "lat": 32.26427654208435,
+    "angleInDegrees": 81.20259,
+    "value": "TG8AG13"
+  },
+  {
+    "lineNumber": 84,
+    "lon": -6.744587809679729,
+    "lat": 32.25023909628049,
+    "angleInDegrees": 153.15624,
+    "value": "SG8A"
+  },
+  {
+    "lineNumber": 85,
+    "lon": -6.755914833633485,
+    "lat": 32.260998939613316,
+    "angleInDegrees": 80.74431000000001,
+    "value": "TG8AG12"
+  },
+  {
+    "lineNumber": 86,
+    "lon": -6.751780407477063,
+    "lat": 32.25398209132497,
+    "angleInDegrees": 75.28788,
+    "value": "TG8AG10"
+  },
+  {
+    "lineNumber": 87,
+    "lon": -6.753581333088094,
+    "lat": 32.257368696723724,
+    "angleInDegrees": 77.00544000000001,
+    "value": "TG8AG11"
+  }
+]
